@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 
-AbiahAbraham/AbiahAbraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+My name is Abiah Abraham 
 - 🔭 I’m currently working on building mpre projects to add to my resume
 - 🌱 I’m currently learning web development and software engineering
 - 👯 I’m looking to collaborate on future projects
