@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**AbiahAbraham/AbiahAbraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+AbiahAbraham/AbiahAbraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/abiah-abraham-a314632a6/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: currently in the process of becoming a polyglot
--->
+  
